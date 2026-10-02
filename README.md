@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hey, I'm Duy Tan — Full-stack Developer from Vietnam building web products with ASP.NET Core, Angular and SQL Server" />
+<img src="./assets/header.svg" width="100%" alt="Hey, I'm Duy Tan — Full-stack Developer from Vietnam building web products with ASP.NET Core, Angular and PostgreSQL" />
 
 <br />
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/ngduytan1811)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-username>/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-FF3D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-professional-email>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-duy-tan-b6175419a/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-FF3D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngduytan1811@gmail.com)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 I am a Full-stack Developer from Vietnam who turns complex business requirements into simple, useful web applications. My work sits between two worlds:
 
-- **Backend** — APIs, business rules, data models, authentication flows, and reliable integrations with **ASP.NET Core** and **SQL Server**.
+- **Backend** — APIs, business rules, data models, authentication flows, and reliable integrations with **ASP.NET Core** and **PostgreSQL**.
 - **Frontend** — responsive, maintainable interfaces with **Angular**, **TypeScript**, and reusable UI components.
 
 > Good software is not just code that works — it is code that people can trust, maintain, and evolve.
@@ -34,7 +34,7 @@ I am a Full-stack Developer from Vietnam who turns complex business requirements
 
 - ASP.NET Core & Web API
 - C# & Entity Framework Core
-- SQL Server & database design
+- PostgreSQL & database design
 - REST APIs & OpenAPI / Swagger
 - Authentication & authorization
 - Clean Architecture principles
@@ -62,19 +62,6 @@ I am a Full-stack Developer from Vietnam who turns complex business requirements
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" alt="Git, GitHub, Docker, Postman, VS Code, Visual Studio" />
 
 `Git` · `GitHub` · `Azure DevOps` · `Docker` · `Postman` · `Swagger` · `Visual Studio` · `VS Code`
-
-## What I Build
-
-### HMS — Full-stack Web Application
-
-A full-stack system built as separate frontend and backend services. It reflects how I approach real applications: clear boundaries, maintainable code, practical user flows, and reliable API communication.
-
-| Area | Repository | What it demonstrates |
-|---|---|---|
-| Backend | [`hms-backend`](https://github.com/<your-organization>/hms-backend) | ASP.NET Core APIs, business logic, authentication, data access, and SQL Server integration |
-| Frontend | [`hms-frontend`](https://github.com/<your-organization>/hms-frontend) | Angular UI, TypeScript, responsive design, forms, reusable components, and API integration |
-
-> The repositories are private or under active development. Public examples and documentation will be added where appropriate.
 
 ## How I Like to Work
 
@@ -111,7 +98,7 @@ A full-stack system built as separate frontend and backend services. It reflects
 
 ### Let’s build something useful.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-username>/)
-[![Email](https://img.shields.io/badge/Send_an_Email-FF3D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-professional-email>)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-duy-tan-b6175419a/)
+[![Email](https://img.shields.io/badge/Send_an_Email-FF3D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngduytan1811@gmail.com)
 
 </div>
